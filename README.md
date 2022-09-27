@@ -1,4 +1,16 @@
-### Olá, sou o Henrique Santos, Quality Assurance!
+<div align="center">
+Olá, sou o Henrique Santos, Quality Assurance!
+  </div><br>
+<div align="center">
+  <img id="img" class="hide" alt="" src="https://imageup.me/images/githubb.png" style="width: 40px; height: 40px; display: inline;">
+  <img id="img" class="hide" alt="" src="https://imageup.me/images/linkedin.png" style="width: 40px; height: 40px; display: inline;">
+  <img id="img" class="hide" alt="" src="https://imageup.me/images/twitter.png" style="width: 40px; height: 40px; display: inline;">
+  <img id="img" class="hide" alt="" src="https://imageup.me/images/insta.png" style="width: 40px; height: 40px; display: inline;">
+  <!--
+  <img id="img" class="hide" alt="" src="https://imageup.me/images/behance.png" style="width: 40px; height: 40px; display: inline;">
+  <img id="img" class="hide" alt="" src="https://imageup.me/images/facebook.png" style="width: 40px; height: 40px; display: inline;">
+  https://imageup.me/?utm_source=google-ads&gclid=CjwKCAjwvsqZBhAlEiwAqAHElZ8rjiqzde9eKSMwuryVqQHCo1f4iJ7IWHESQjAlnGoLeJd6koAWORoCo4cQAvD_BwE -->
+  </div>
 <div align="center">
   <a href="https://github.com/ohenriqueds"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=ohenriqueds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriqueds&layout=compact&langs_count=7&theme=tokyonight"/>
