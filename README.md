@@ -3,7 +3,7 @@ Olá, sou o Henrique Santos, Quality Assurance!
   </div><br>
 <div align="center">
   <a href="https://github.com/ohenriqueds"><img id="img" class="hide" alt="" src="https://imageup.me/images/githubb.png" style="width: 40px; height: 40px; display: inline;">
-  <a href="https://linkedin.com/ohenriqueds"><img id="img" class="hide" alt="" src="https://imageup.me/images/linkedin.png" style="width: 40px; height: 40px; display: inline;">
+  <a href="https://www.linkedin.com/in/ohenriqueds"><img id="img" class="hide" alt="" src="https://imageup.me/images/linkedin.png" style="width: 40px; height: 40px; display: inline;">
   <img id="img" class="hide" alt="" src="https://imageup.me/images/twitter.png" style="width: 40px; height: 40px; display: inline;">
   <img id="img" class="hide" alt="" src="https://imageup.me/images/insta.png" style="width: 40px; height: 40px; display: inline;">
   <!--
