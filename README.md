@@ -1,5 +1,5 @@
 <div align="center">
-Olá, sou o Henrique Santos, Quality Assurance!
+<h2>Olá, sou o Henrique Santos, Quality Assurance!</>
   </div><br>
 <div align="center">
   <a href="https://github.com/ohenriqueds"><img id="img" class="hide" alt="" src="https://imageup.me/images/githubb.png" style="width: 40px; height: 40px; display: inline;">
